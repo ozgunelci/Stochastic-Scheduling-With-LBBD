@@ -34,3 +34,7 @@ We adjust probabilities accordingly (i.e., 1/k).
 		under different scenarios,
 		 The second line is the processing time of task 2 on facility 1
 		under different scenarios.)
+
+We use the instance in "makespan" folder in Tables 1-4 and EC1-EC2, 
+"makespan-alternate-processing-times" in Table 5,
+"fixed-cost" in Table 6, and "tardiness" in Table 7.
