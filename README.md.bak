@@ -5,7 +5,7 @@ Stochastic Planning and Scheduling with Logic-Based Benders Decomposition.
 
 Please refer to the description below for detailed description of each instance.
 In our computational study, we use the first k scenarios to solve the instances that has k<500 scenarios. 
-We adjust probabilities accordingly (i.e., 1/k).
+We adjust probabilities accordingly (i.e., 1/k)
 
     Line 1: 'rnd'
     Line 2: Number of tasks
